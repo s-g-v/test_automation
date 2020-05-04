@@ -1,6 +1,6 @@
-pytest==3.6.3
-pytest-html==1.19.0
-pytest-xdist==1.22.2
-selenium==3.13.0
-webium==1.2.1
-requests==2.20.0
+pytest>=3.6.3
+pytest-html>=1.19.0
+pytest-xdist>=1.22.2
+selenium>=3.13.0
+webium>=1.2.1
+requests>=2.20.0

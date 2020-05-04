@@ -7,3 +7,4 @@ sudo pip3 install -r requirements.txt
 Run tests:
 python3 test_imdb.py
 
+chromedriver and geckodriver should be placed to resources
